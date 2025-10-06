@@ -1,7 +1,7 @@
 # Search GitHub User Explorer (GraphQL) - ReactVite
 
-![Screenshot 2025-06-15 at 22 00 23](https://github.com/user-attachments/assets/72515557-bec1-42ab-a420-05d79ac03b77)
-![Screenshot 2025-06-15 at 21 29 04](https://github.com/user-attachments/assets/00ff6fa3-6cd5-4888-b5dd-4fda0512bce2)
+<img width="647" height="820" alt="image" src="https://github.com/user-attachments/assets/09764aa3-94fd-4206-99ab-469ca19fd7d7" />
+
 
 A modern, feature-rich web application to search and explore GitHub users using the GitHub GraphQL API. Built with React, Vite, TypeScript, Tailwind CSS, Apollo Client, and shadcn/ui, this project demonstrates advanced state management, data visualization, and a clean, responsive UI.
 
